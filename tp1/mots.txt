@@ -1,0 +1,9 @@
+python
+reseau
+routeur
+telecom
+switch
+ethernet
+adresse
+passerelle
+éléphant
